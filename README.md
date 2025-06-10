@@ -9,9 +9,9 @@ The project consists of **13 distinct problem statements**, each focusing on var
 ## ⚙️ Key Features
 
 - Implementations include algorithms covering:
-  - Graph theory (e.g., Dijkstra’s algorithm)
-  - Dynamic Programming
-  - AVL Trees and other data structures
+  - Graph theory (e.g., Dijkstra’s algorithm, Kruskal's algorithm)
+  - Dynamic Programming , Divide and Conquer
+  - AVL trees and other data structures
   - Complex number computations
   - Sorting and searching
   - Basic computational geometry
