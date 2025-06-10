@@ -1,0 +1,57 @@
+Killmonger is out of fight
+Ronan is out of fight
+Magneto is out of fight
+IronMan 1000 280 520 220
+IronMan 1000 330 520 170
+Thor 1320 300 750 320
+Hulk 1300 480 720 240
+Hulk 1690 480 870 270
+Hulk 1690 210 1140 540
+Hulk 1943 310 1215 455
+CaptainAmerica 1600 600 1000 340
+DoctorStrange 1700 730 1070 320
+DoctorStrange 2040 730 1170 340
+IronMan 1000 330 520 170
+Thor 1320 30 1020 590
+Hulk 1943 310 1215 455
+BlackWidow 1500 550 850 280
+BlackWidow 1875 600 975 255
+BlackWidow 1875 300 1275 555
+CaptainAmerica 2400 330 1520 660
+SpiderMan 1800 1100 900 60
+SpiderMan 1800 1100 900 60
+CaptainAmerica 2400 330 1520 660
+DoctorStrange 2040 730 1170 340
+Loki attacks IronMan
+Thanos attacks Thor
+IronMan repaired
+Thor boosted
+Loki attacks Hulk
+Hulk boosted
+RedSkull attacks Hulk
+Hulk suit overheated
+Hulk repaired
+Hulk boosted
+Thanos attacks CaptainAmerica
+RedSkull attacks Thor
+Thor suit overheated
+RedSkull attacks DoctorStrange
+DoctorStrange boosted
+IronMan upgrade Fail
+Thor upgrade Fail
+Hulk upgrade Fail
+Ultron attacks BlackWidow
+BlackWidow repaired
+BlackWidow boosted
+Thanos attacks BlackWidow
+BlackWidow suit overheated
+RedSkull attacks BlackWidow
+BlackWidow suit overheated
+RedSkull attacks CaptainAmerica
+CaptainAmerica suit overheated
+CaptainAmerica boosted
+CaptainAmerica suit overheated
+SpiderMan repaired
+CaptainAmerica upgrade Fail
+DoctorStrange upgrade Fail
+heroes are winning

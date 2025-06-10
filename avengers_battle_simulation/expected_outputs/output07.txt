@@ -1,0 +1,22 @@
+IronMan 1000 280 520 220
+IronMan 1000 330 520 170
+Thor 1210 250 700 320
+Hulk 1200 380 620 240
+Hulk 1560 380 770 270
+Hulk 1560 80 1070 570
+Hulk 1872 180 1170 490
+BlackWidow 1300 380 720 300
+IronMan 1000 110 740 390
+Loki attacks IronMan
+Thanos attacks Thor
+IronMan repaired
+Thor boosted
+Loki attacks Hulk
+Hulk boosted
+Thanos attacks Hulk
+Hulk suit overheated
+Hulk repaired
+Hulk boosted
+RedSkull attacks BlackWidow
+Loki attacks IronMan
+enemies are winning

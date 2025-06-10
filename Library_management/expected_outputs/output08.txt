@@ -1,0 +1,44 @@
+Algorithms Author1
+CS20M001 David ISBN001 1
+Algorithms Author1 5
+AI Author2 2
+MachineLearning Author3 3
+DeepLearning Author4 5
+CloudComputing Author5 3
+Blockchain Author6 2
+QuantumComputing Author7 3
+BigData Author8 5
+NeuralNetworks Author9 3
+DataScience Author10 6
+CS20M001 David
+CS20M002 John
+CS20M003 Sarah
+CS20M004 Mike
+CS20M005 Lily
+CS20M006 Alex
+CS20M007 Maria
+CS20M008 Tom
+CS20M009 Emma
+CS20M010 Ryan
+DeepLearning Author4
+Algorithms Author1 5
+AI Author2 3
+MachineLearning Author3 4
+DeepLearning Author4 6
+CloudComputing Author5 3
+Blockchain Author6 1
+QuantumComputing Author7 2
+BigData Author8 5
+NeuralNetworks Author9 3
+DataScience Author10 6
+CS20M001 David
+CS20M002 John
+CS20M003 Sarah
+CS20M004 Mike
+CS20M005 Lily
+CS20M006 Alex
+CS20M007 Maria
+CS20M008 Tom
+CS20M009 Emma
+CS20M010 Ryan
+BigData Author8

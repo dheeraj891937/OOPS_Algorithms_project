@@ -1,0 +1,17 @@
+5 10
+G6cs2r
+4MFeTu
+6quYjZ
+Gj8bxQ
+6TxyR3
+Gj8bxQ 6TxyR3 9
+Gj8bxQ G6cs2r 64
+6quYjZ 6TxyR3 26
+6quYjZ Gj8bxQ 70
+6quYjZ 4MFeTu 94
+6quYjZ G6cs2r 67
+4MFeTu 6TxyR3 52
+4MFeTu Gj8bxQ 14
+4MFeTu G6cs2r 79
+G6cs2r 6TxyR3 7
+Gj8bxQ 6quYjZ

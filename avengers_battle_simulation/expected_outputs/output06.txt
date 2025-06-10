@@ -1,0 +1,27 @@
+Ultron is out of fight
+RedSkull is out of fight
+IronMan 1000 280 520 220
+IronMan 1000 330 520 170
+Thor 1260 300 725 315
+Hulk 1300 480 720 240
+Hulk 1560 480 820 260
+Hulk 1560 180 1120 560
+Hulk 1794 280 1195 475
+CaptainAmerica 1600 600 1000 340
+Thor 1260 -220 1245 835
+Loki attacks IronMan
+Thanos attacks Thor
+IronMan repaired
+Thor boosted
+Loki attacks Hulk
+Hulk boosted
+Thanos attacks Hulk
+Hulk suit overheated
+Hulk repaired
+Hulk boosted
+Thanos attacks CaptainAmerica
+Loki attacks Thor
+Thor suit overheated
+Thanos attacks Thor
+Thor suit destroyed
+heroes are winning

@@ -1,0 +1,66 @@
+Book
+CPPProgramming RupeshNasre CS2810 2 2
+
+Book
+None
+
+Book
+ExistingBook CS2810 CS2910
+
+Book
+PythonProgramming RupeshNasre CS2810 5 5
+
+Member
+CS24M015 Debasmita 2
+
+Member
+NoBorrowLimit CS23M041 Neel
+
+Member
+CS23M041 Rupesh 10
+
+Borrow
+CS24M015 CS2810
+
+Borrow
+CS24M015 CS2910
+
+Borrow
+CS24M015 CS2810
+
+Borrow
+CS23M041 CS2810
+
+Borrow
+CS23M041 CS2810
+
+PrintBook
+CS2910
+
+PrintMember
+CS24M015
+
+PrintLibrary
+
+Return
+CS23M041 CS2810
+
+Return
+CS24M015 CS2810
+
+Return
+CS23M041 CS2910
+
+PrintLibrary
+
+UpdateCopiesCount
+CS2810 -2
+
+PrintLibrary
+
+UpdateCopiesCount
+CS2910 -5
+
+PrintLibrary
+
+Done

@@ -1,0 +1,29 @@
+7 20
+hc2O
+rDls
+kWVF
+pUVY
+Oib0
+CyDu
+Hcxf
+Hcxf CyDu 14
+Hcxf Oib0 19
+Hcxf kWVF 92
+CyDu kWVF 15
+CyDu rDls 24
+CyDu hc2O 87
+Oib0 CyDu 57
+Oib0 pUVY 90
+Oib0 kWVF 64
+Oib0 rDls 80
+Oib0 hc2O 84
+pUVY Hcxf 6
+pUVY CyDu 79
+pUVY kWVF 61
+pUVY rDls 34
+kWVF hc2O 1
+rDls Hcxf 30
+rDls kWVF 54
+hc2O Hcxf 19
+hc2O rDls 68
+hc2O kWVF

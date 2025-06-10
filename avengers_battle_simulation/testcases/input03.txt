@@ -1,0 +1,32 @@
+5 3 2  
+1200 600 250 0  
+1300 700 300 10  
+1400 750 350 20  
+1600 900 400 30  
+1800 1000 450 40  
+IronMan 110  
+Thor 200  
+Hulk 300  
+Loki 250  
+Thanos 180  
+BattleBegin  
+Attack IronMan Loki  
+AvengerStatus Loki  
+Attack Thor Thanos  
+Repair Hulk 50  
+BoostPowerByFactor Thor 5  
+Upgrade Hulk  
+Attack Loki IronMan  
+Attack Thanos Hulk  
+BoostPowerByFactor Loki 10  
+AvengerStatus Loki  
+Repair IronMan 30  
+Upgrade Thor  
+Attack Loki Thor  
+Attack Hulk Thanos  
+AvengerStatus Hulk  
+BoostPowerByFactor Thanos 3  
+AvengerStatus Thanos  
+PrintBattleLog  
+BattleStatus  
+End

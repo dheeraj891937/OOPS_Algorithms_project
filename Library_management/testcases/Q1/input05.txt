@@ -1,0 +1,20 @@
+Book
+None
+
+Member
+NoBorrowLimit Id1 Joe
+
+Borrow
+Id1 ISBN
+
+UpdateCopiesCount
+ISBN -10
+
+PrintLibrary
+
+UpdateCopiesCount
+ISBN 4
+
+PrintLibrary
+
+Done

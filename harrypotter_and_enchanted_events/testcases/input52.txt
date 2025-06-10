@@ -1,0 +1,12 @@
+4 6
+GryffindorTower
+SlytherinDungeon
+RavenclawTower
+HufflepuffBasement
+GryffindorTower SlytherinDungeon 119
+GryffindorTower RavenclawTower 130
+GryffindorTower HufflepuffBasement 170
+SlytherinDungeon RavenclawTower 121
+SlytherinDungeon HufflepuffBasement 145
+RavenclawTower HufflepuffBasement 200
+GryffindorTower SlytherinDungeon

@@ -1,0 +1,6 @@
+Invalid request! Copy of book not available
+Invalid request! Count becomes negative
+UnknownTitle UnknownAuthor 0
+Id1 Joe
+UnknownTitle UnknownAuthor 4
+Id1 Joe

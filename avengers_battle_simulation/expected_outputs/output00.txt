@@ -1,0 +1,9 @@
+Ultron is out of fight
+IronMan 1000 550 300 0
+Thor 1224 700 210 12
+IronMan attacks Loki
+Thor attacks Loki
+IronMan repaired
+Thor boosted
+IronMan upgrade Fail
+heroes are winning

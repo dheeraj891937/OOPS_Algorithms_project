@@ -1,0 +1,10 @@
+CREATE_2D
+3
+9 8 2 
+10 -10 9 
+8 8 6 
+SORT_2D ascending
+INVERSION_2D
+SORT_2D ascending
+DISPLAY_2D
+END

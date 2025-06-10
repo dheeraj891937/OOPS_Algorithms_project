@@ -1,0 +1,265 @@
+
+Book
+Algorithms Author1 ISBN101 5 5
+Book
+DataScience Author2 ISBN102 4 4
+Book
+CloudComputing Author3 ISBN103 3 3
+Book
+Blockchain Author4 ISBN104 2 2
+Book
+AI Author5 ISBN105 6 6
+Book
+ML Author6 ISBN106 7 7
+Book
+QuantumComputing Author7 ISBN107 8 8
+Book
+BigData Author8 ISBN108 10 10
+Book
+IoT Author9 ISBN109 9 9
+Book
+Robotics Author10 ISBN110 11 11
+Book
+WebDevelopment Author11 ISBN111 12 12
+Book
+CyberSecurity Author12 ISBN112 15 15
+Book
+Networking Author13 ISBN113 13 13
+Book
+PythonProgramming Author14 ISBN114 14 14
+Book
+JavaProgramming Author15 ISBN115 20 20
+Book
+DataMining Author16 ISBN116 18 18
+Book
+CloudStorage Author17 ISBN117 25 25
+Book
+AppDevelopment Author18 ISBN118 30 30
+Book
+MobileComputing Author19 ISBN119 35 35
+Book
+SoftwareEngineering Author20 ISBN120 40 40
+
+Member
+CS01M001 John 3
+Member
+CS01M002 Alice 3
+Member
+NoBorrowLimit CS01M003 Bob
+Member
+CS01M004 Charlie 3
+Member
+CS01M005 David 3
+Member
+CS01M006 Emma 3
+Member
+CS01M007 Frank 3
+Member
+CS01M008 Grace 3
+Member
+CS01M009 Hannah 3
+Member
+CS01M010 Isaac 3
+Member
+CS01M011 Jack 3
+Member
+CS01M012 Kelly 3
+Member
+CS01M013 Liam 3
+Member
+CS01M014 Mike 3
+Member
+CS01M015 Nancy 3
+Member
+CS01M016 Olivia 3
+Member
+CS01M017 Paul 3
+Member
+CS01M018 Quinn 3
+Member
+CS01M019 Ryan 3
+Member
+CS01M020 Steve 3
+Member
+NoBorrowLimit CS01M021 Tina
+Member
+CS01M022 Uma 3
+Member
+CS01M023 Victor 3
+Member
+CS01M024 Wendy 3
+Member
+CS01M025 Xander 3
+Member
+CS01M026 Yara 3
+Member
+CS01M027 Zach 3
+Member
+CS01M028 Adam 3
+Member
+CS01M029 Ben 3
+Member
+CS01M030 Clara 3
+Member
+CS01M031 Derek 3
+Member
+CS01M032 Eva 3
+Member
+CS01M033 Fiona 3
+Member
+CS01M034 Gabe 3
+Member
+CS01M035 Heidi 3
+Member
+CS01M036 Ian 3
+Member
+CS01M037 Julia 3
+Member
+CS01M038 Kyle 3
+Member
+CS01M039 Laura 3
+Member
+CS01M040 Matt 3
+Member
+CS01M041 Nora 3
+Member
+CS01M042 Owen 3
+Member
+CS01M043 Penny 3
+Member
+CS01M044 Quinn 3
+Member
+CS01M045 Ray 3
+Member
+CS01M046 Sam 3
+Member
+CS01M047 Tom 3
+Member
+CS01M048 Ursula 3
+Member
+CS01M049 Vince 3
+Member
+CS01M050 Will 3
+Member
+CS01M051 Xander 3
+Member
+CS01M052 Yasmine 3
+Member
+CS01M053 Zane 3
+Member
+CS01M054 Alan 3
+Member
+CS01M055 Brandon 3
+Member
+CS01M056 Charlotte 3
+Member
+CS01M057 Daniel 3
+Member
+CS01M058 Emily 3
+Member
+CS01M059 Fred 3
+Member
+CS01M060 Grace 3
+Member
+CS01M061 Harry 3
+Member
+CS01M062 Ivy 3
+Member
+CS01M063 Jack 3
+Member
+CS01M064 Kate 3
+Member
+CS01M065 Louis 3
+Member
+CS01M066 Monica 3
+Member
+CS01M067 Nathan 3
+Member
+CS01M068 Olivia 3
+Member
+CS01M069 Peter 3
+Member
+CS01M070 Quinn 3
+
+Borrow
+CS01M001 ISBN101
+Borrow
+CS01M001 ISBN102
+Borrow
+CS01M002 ISBN103
+Borrow
+CS01M003 ISBN104
+Borrow
+CS01M001 ISBN105
+Borrow
+CS01M003 ISBN106
+Borrow
+CS01M002 ISBN107
+Borrow
+CS01M002 ISBN108
+Borrow
+CS01M003 ISBN109
+Borrow
+CS01M004 ISBN110
+Borrow
+CS01M005 ISBN111
+Borrow
+CS01M006 ISBN112
+Borrow
+CS01M007 ISBN113
+Borrow
+CS01M008 ISBN114
+Borrow
+CS01M009 ISBN115
+Borrow
+CS01M010 ISBN116
+Borrow
+CS01M011 ISBN117
+Borrow
+CS01M012 ISBN118
+Borrow
+CS01M013 ISBN119
+
+Return
+CS01M001 ISBN101
+Return
+CS01M002 ISBN103
+Return
+CS01M003 ISBN104
+Return
+CS01M004 ISBN105
+Return
+CS01M005 ISBN106
+Return
+CS01M006 ISBN107
+Return
+CS01M007 ISBN108
+Return
+CS01M008 ISBN109
+Return
+CS01M009 ISBN110
+Return
+CS01M010 ISBN111
+Return
+CS01M011 ISBN112
+Return
+CS01M012 ISBN113
+Return
+CS01M013 ISBN114
+Return
+CS01M014 ISBN115
+Return
+CS01M015 ISBN116
+Return
+CS01M016 ISBN117
+Return
+CS01M017 ISBN118
+Return
+CS01M018 ISBN119
+
+PrintBook
+ISBN101
+PrintMember
+CS01M001
+PrintLibrary
+Done

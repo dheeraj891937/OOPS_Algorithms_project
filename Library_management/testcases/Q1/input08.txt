@@ -1,0 +1,122 @@
+Book
+Algorithms Author1 ISBN001 5 5
+
+Book
+AI Author2 ISBN002 3 3
+
+Book
+MachineLearning Author3 ISBN003 4 4
+
+Book
+DeepLearning Author4 ISBN004 6 6
+
+Book
+CloudComputing Author5 ISBN005 4 4
+
+Book
+Blockchain Author6 ISBN006 2 2
+
+Book
+QuantumComputing Author7 ISBN007 3 3
+
+Book
+BigData Author8 ISBN008 5 5
+
+Book
+NeuralNetworks Author9 ISBN009 3 3
+
+Book
+DataScience Author10 ISBN010 6 6
+
+Member
+CS20M001 David 3
+
+Member
+NoBorrowLimit CS20M002 John
+
+Member
+CS20M003 Sarah 2
+
+Member
+CS20M004 Mike 4
+
+Member
+CS20M005 Lily 1
+
+Member
+CS20M006 Alex 3
+
+Member
+NoBorrowLimit CS20M007 Maria
+
+Member
+CS20M008 Tom 5
+
+Member
+CS20M009 Emma 2
+
+Member
+CS20M010 Ryan 4
+
+Borrow
+CS20M001 ISBN001
+
+Borrow
+CS20M002 ISBN002
+
+Borrow
+CS20M003 ISBN003
+
+PrintBook
+ISBN001
+
+Borrow
+CS20M004 ISBN004
+
+Borrow
+CS20M005 ISBN005
+
+PrintMember
+CS20M001
+
+Return
+CS20M001 ISBN001
+
+PrintLibrary
+
+Borrow
+CS20M006 ISBN006
+
+Return
+CS20M002 ISBN002
+
+PrintBook
+ISBN004
+
+Borrow
+CS20M007 ISBN007
+
+Return
+CS20M003 ISBN003
+
+PrintMember
+CS20M003
+
+Return
+CS20M004 ISBN004
+
+PrintLibrary
+
+Borrow
+CS20M008 ISBN008
+
+Return
+CS20M005 ISBN005
+
+PrintBook
+ISBN008
+
+PrintMember
+CS20M004
+
+Done

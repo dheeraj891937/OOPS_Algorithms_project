@@ -1,0 +1,20 @@
+Loki 1600 790 510 140
+Loki 1760 790 560 150
+Hulk 1400 620 530 180
+Thanos 1854 500 965 543
+IronMan attacks Loki
+Thor attacks Thanos
+Hulk repaired
+Thor boosted
+Hulk upgrade Fail
+Loki attacks IronMan
+Thanos attacks Hulk
+Loki boosted
+IronMan repaired
+Thor upgrade Fail
+Loki attacks Thor
+Hulk attacks Thanos
+Thanos suit overheated
+Thanos boosted
+Thanos suit overheated
+heroes are winning

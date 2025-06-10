@@ -1,0 +1,247 @@
+50 20 20
+1100 500 300 0
+1200 600 400 10
+1300 700 500 20
+1400 800 600 30
+1500 900 700 40
+1600 1000 800 50
+1700 1100 900 60
+1800 1200 1000 70
+1900 1300 1100 80
+2000 1400 1200 90
+2100 1500 1300 100
+2200 1600 1400 110
+2300 1700 1500 120
+2400 1800 1600 130
+2500 1900 1700 140
+2600 2000 1800 150
+2700 2100 1900 160
+2800 2200 2000 170
+2900 2300 2100 180
+3000 2400 2200 190
+3100 2500 2300 200
+3200 2600 2400 210
+3300 2700 2500 220
+3400 2800 2600 230
+3500 2900 2700 240
+3600 3000 2800 250
+3700 3100 2900 260
+3800 3200 3000 270
+3900 3300 3100 280
+4000 3400 3200 290
+4100 3500 3300 300
+4200 3600 3400 310
+4300 3700 3500 320
+4400 3800 3600 330
+4500 3900 3700 340
+4600 4000 3800 350
+4700 4100 3900 360
+4800 4200 4000 370
+4900 4300 4100 380
+5000 4400 4200 390
+5100 4500 4300 400
+5200 4600 4400 410
+5300 4700 4500 420
+5400 4800 4600 430
+5500 4900 4700 440
+5600 5000 4800 450
+5700 5100 4900 460
+5800 5200 5000 470
+5900 5300 5100 480
+6000 5400 5200 490
+IronMan 150
+Thor 200
+Hulk 250
+BlackWidow 180
+CaptainAmerica 170
+Hawkeye 210
+Falcon 190
+Vision 230
+ScarletWitch 240
+AntMan 200
+Wasp 180
+DoctorStrange 220
+SpiderMan 160
+BlackPanther 200
+WarMachine 230
+ShangChi 250
+WinterSoldier 220
+StarLord 210
+Gamora 230
+Rocket 250
+Loki 220
+Thanos 300
+Ultron 250
+RedSkull 270
+EbonyMaw 280
+Hela 300
+Dormammu 290
+Abomination 260
+Ronan 270
+Enchantress 240
+Vulture 220
+Sandman 230
+Mysterio 240
+Killmonger 250
+Taskmaster 260
+MODOK 270
+Juggernaut 280
+Magneto 290
+Apocalypse 300
+Galactus 310
+BattleBegin
+Attack Thor Hulk
+AvengerStatus Hulk
+BoostPowerByFactor Hulk 20
+AvengerStatus Hulk
+Attack Thanos IronMan
+Repair IronMan 50
+AvengerStatus IronMan
+BoostPowerByFactor IronMan 15
+AvengerStatus IronMan
+Attack RedSkull BlackWidow
+AvengerStatus BlackWidow
+BoostPowerByFactor BlackWidow 30
+AvengerStatus BlackWidow
+Attack Loki CaptainAmerica
+AvengerStatus CaptainAmerica
+Repair CaptainAmerica 40
+AvengerStatus CaptainAmerica
+Attack Ultron Thor
+AvengerStatus Thor
+BoostPowerByFactor Thor 25
+AvengerStatus Thor
+Attack Galactus Hulk
+BoostPowerByFactor Hulk 50
+AvengerStatus Hulk
+Repair Hulk 100
+AvengerStatus Hulk
+Upgrade IronMan
+AvengerStatus IronMan
+Upgrade Thor
+AvengerStatus Thor
+Upgrade BlackWidow
+AvengerStatus BlackWidow
+Attack Dormammu Wasp
+AvengerStatus Wasp
+BoostPowerByFactor Wasp 15
+AvengerStatus Wasp
+Repair Wasp 30
+AvengerStatus Wasp
+Attack Killmonger DoctorStrange
+AvengerStatus DoctorStrange
+Repair DoctorStrange 50
+BoostPowerByFactor DoctorStrange 20
+AvengerStatus DoctorStrange
+Attack Enchantress ScarletWitch
+AvengerStatus ScarletWitch
+BoostPowerByFactor ScarletWitch 10
+AvengerStatus ScarletWitch
+Upgrade ScarletWitch
+AvengerStatus ScarletWitch
+Attack Apocalypse Vision
+AvengerStatus Vision
+Repair Vision 70
+BoostPowerByFactor Vision 30
+AvengerStatus Vision
+Attack Ronan WarMachine
+AvengerStatus WarMachine
+BoostPowerByFactor WarMachine 25
+AvengerStatus WarMachine
+Repair WarMachine 50
+AvengerStatus WarMachine
+Attack Magneto ShangChi
+AvengerStatus ShangChi
+BoostPowerByFactor ShangChi 40
+AvengerStatus ShangChi
+Attack Vulture SpiderMan
+AvengerStatus SpiderMan
+Repair SpiderMan 20
+AvengerStatus SpiderMan
+BoostPowerByFactor SpiderMan 15
+AvengerStatus SpiderMan
+Upgrade SpiderMan
+AvengerStatus SpiderMan
+Attack Taskmaster WinterSoldier
+AvengerStatus WinterSoldier
+BoostPowerByFactor WinterSoldier 30
+AvengerStatus WinterSoldier
+Repair WinterSoldier 60
+AvengerStatus WinterSoldier
+Attack Juggernaut StarLord
+AvengerStatus StarLord
+BoostPowerByFactor StarLord 20
+AvengerStatus StarLord
+Upgrade StarLord
+AvengerStatus StarLord
+Attack Mysterio Gamora
+AvengerStatus Gamora
+BoostPowerByFactor Gamora 35
+AvengerStatus Gamora
+Repair Gamora 40
+AvengerStatus Gamora
+Attack MODOK Rocket
+AvengerStatus Rocket
+BoostPowerByFactor Rocket 50
+AvengerStatus Rocket
+Repair Rocket 30
+AvengerStatus Rocket
+Attack EbonyMaw BlackPanther
+AvengerStatus BlackPanther
+BoostPowerByFactor BlackPanther 25
+AvengerStatus BlackPanther
+Upgrade BlackPanther
+AvengerStatus BlackPanther
+Attack Sandman AntMan
+AvengerStatus AntMan
+BoostPowerByFactor AntMan 10
+AvengerStatus AntMan
+Repair AntMan 40
+AvengerStatus AntMan
+Attack Apocalypse Falcon
+AvengerStatus Falcon
+BoostPowerByFactor Falcon 20
+AvengerStatus Falcon
+Upgrade Falcon
+AvengerStatus Falcon
+Attack Galactus Hawkeye
+AvengerStatus Hawkeye
+Repair Hawkeye 30
+BoostPowerByFactor Hawkeye 25
+AvengerStatus Hawkeye
+Upgrade Hawkeye
+AvengerStatus Hawkeye
+Attack Dormammu Vision
+AvengerStatus Vision
+BoostPowerByFactor Vision 50
+AvengerStatus Vision
+Attack Magneto ScarletWitch
+AvengerStatus ScarletWitch
+Repair ScarletWitch 70
+BoostPowerByFactor ScarletWitch 15
+AvengerStatus ScarletWitch
+Upgrade ScarletWitch
+AvengerStatus ScarletWitch
+Attack Loki CaptainAmerica
+AvengerStatus CaptainAmerica
+BoostPowerByFactor CaptainAmerica 35
+AvengerStatus CaptainAmerica
+Repair CaptainAmerica 50
+AvengerStatus CaptainAmerica
+Attack Ronan Thor
+AvengerStatus Thor
+BoostPowerByFactor Thor 40
+AvengerStatus Thor
+Repair Thor 60
+AvengerStatus Thor
+Attack Thanos IronMan
+AvengerStatus IronMan
+BoostPowerByFactor IronMan 50
+AvengerStatus IronMan
+Repair IronMan 30
+AvengerStatus IronMan
+Upgrade IronMan
+AvengerStatus IronMan
+PrintBattleLog
+BattleStatus
+End

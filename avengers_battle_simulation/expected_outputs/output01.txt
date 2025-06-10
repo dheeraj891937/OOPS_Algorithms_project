@@ -1,0 +1,2 @@
+CaptainAmerica 1200 350 500 250
+Thanos 1300 700 300 10

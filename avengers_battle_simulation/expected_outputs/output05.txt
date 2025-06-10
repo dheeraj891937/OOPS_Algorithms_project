@@ -1,0 +1,15 @@
+IronMan 1000 500 300 0
+Thor 1200 600 400 10
+IronMan 1800 1500 1900 0
+Thor 1200 600 400 10
+Ultron 1500 550 1050 390
+IronMan attacks Loki
+Thor attacks Thanos
+IronMan upgraded
+Thor upgrade Fail
+Ultron attacks IronMan
+Thor attacks Ultron
+IronMan attacks Ultron
+Thor attacks Ultron
+Ultron suit overheated
+enemies are winning

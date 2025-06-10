@@ -1,0 +1,7 @@
+Invalid request! Book not borrowed
+Invalid request! Copy of book exceeds total copies
+CS40M001 Alice ISBN456 1
+ReturnEdgeBook Author2 1
+EdgeBook Author1 2
+CS40M001 Alice
+CS40M002 Bob

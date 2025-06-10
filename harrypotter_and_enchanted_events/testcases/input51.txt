@@ -1,0 +1,8 @@
+3 3
+GreatHall
+AstronomyTower
+RoomOfRequirement
+GreatHall AstronomyTower 3
+AstronomyTower RoomOfRequirement 2
+GreatHall RoomOfRequirement 2
+GreatHall AstronomyTower

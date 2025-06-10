@@ -1,0 +1,16 @@
+CaptainAmerica 1200 350 500 250
+Hulk 1300 520 480 190
+Hulk 1300 560 480 150
+RedSkull 1648 900 415 33
+Hulk 1300 310 730 400
+CaptainAmerica 1200 170 680 430
+CaptainAmerica 1200 -80 930 680
+Thanos attacks CaptainAmerica
+RedSkull attacks Hulk
+Hulk repaired
+RedSkull boosted
+Thanos attacks Hulk
+RedSkull attacks CaptainAmerica
+Thanos attacks CaptainAmerica
+CaptainAmerica suit destroyed
+enemies are winning

@@ -1,0 +1,252 @@
+Algorithms Author1
+CS30M001 David ISBN001 1
+Algorithms Author1 5
+AI Author2 2
+MachineLearning Author3 3
+DeepLearning Author4 5
+CloudComputing Author5 3
+Blockchain Author6 2
+QuantumComputing Author7 3
+BigData Author8 5
+NeuralNetworks Author9 3
+DataScience Author10 6
+CyberSecurity Author11 4
+CloudNative Author12 5
+EdgeComputing Author13 3
+IoT Author14 2
+DevOps Author15 6
+DigitalTransformation Author16 3
+BlockchainTechnology Author17 4
+ArtificialIntelligence Author18 5
+NeuralProcessing Author19 2
+Robotics Author20 3
+Automation Author21 4
+MachineVision Author22 6
+BigDataAnalytics Author23 3
+DataMining Author24 5
+DataEngineering Author25 4
+PredictiveAnalytics Author26 3
+SpeechRecognition Author27 4
+ImageProcessing Author28 2
+NaturalLanguageProcessing Author29 5
+AugmentedReality Author30 6
+VirtualReality Author31 4
+QuantumMechanics Author32 2
+SmartCities Author33 3
+IoTDevelopment Author34 4
+AutonomousVehicles Author35 3
+CloudInfrastructure Author36 5
+GreenTech Author37 3
+Sustainability Author38 4
+CyberPhysicalSystems Author39 5
+ArtificialLife Author40 6
+QuantumComputing2 Author41 3
+DigitalTwins Author42 4
+SmartManufacturing Author43 2
+Biotechnology Author44 3
+FinTech Author45 5
+Bioinformatics Author46 4
+Bioengineering Author47 6
+SmartFarming Author48 3
+SustainableEnergy Author49 5
+ArtificialVision Author50 2
+CS30M001 David
+CS30M002 John
+CS30M003 Sarah
+CS30M004 Mike
+CS30M005 Lily
+CS30M006 Alex
+CS30M007 Maria
+CS30M008 Tom
+CS30M009 Emma
+CS30M010 Ryan
+DeepLearning Author4
+Algorithms Author1 5
+AI Author2 3
+MachineLearning Author3 4
+DeepLearning Author4 6
+CloudComputing Author5 3
+Blockchain Author6 1
+QuantumComputing Author7 2
+BigData Author8 5
+NeuralNetworks Author9 3
+DataScience Author10 6
+CyberSecurity Author11 4
+CloudNative Author12 5
+EdgeComputing Author13 3
+IoT Author14 2
+DevOps Author15 6
+DigitalTransformation Author16 3
+BlockchainTechnology Author17 4
+ArtificialIntelligence Author18 5
+NeuralProcessing Author19 2
+Robotics Author20 3
+Automation Author21 4
+MachineVision Author22 6
+BigDataAnalytics Author23 3
+DataMining Author24 5
+DataEngineering Author25 4
+PredictiveAnalytics Author26 3
+SpeechRecognition Author27 4
+ImageProcessing Author28 2
+NaturalLanguageProcessing Author29 5
+AugmentedReality Author30 6
+VirtualReality Author31 4
+QuantumMechanics Author32 2
+SmartCities Author33 3
+IoTDevelopment Author34 4
+AutonomousVehicles Author35 3
+CloudInfrastructure Author36 5
+GreenTech Author37 3
+Sustainability Author38 4
+CyberPhysicalSystems Author39 5
+ArtificialLife Author40 6
+QuantumComputing2 Author41 3
+DigitalTwins Author42 4
+SmartManufacturing Author43 2
+Biotechnology Author44 3
+FinTech Author45 5
+Bioinformatics Author46 4
+Bioengineering Author47 6
+SmartFarming Author48 3
+SustainableEnergy Author49 5
+ArtificialVision Author50 2
+CS30M001 David
+CS30M002 John
+CS30M003 Sarah
+CS30M004 Mike
+CS30M005 Lily
+CS30M006 Alex
+CS30M007 Maria
+CS30M008 Tom
+CS30M009 Emma
+CS30M010 Ryan
+BigData Author8
+DataScience Author10
+Algorithms Author1 5
+AI Author2 3
+MachineLearning Author3 4
+DeepLearning Author4 6
+CloudComputing Author5 4
+Blockchain Author6 2
+QuantumComputing Author7 2
+BigData Author8 5
+NeuralNetworks Author9 2
+DataScience Author10 5
+CyberSecurity Author11 4
+CloudNative Author12 5
+EdgeComputing Author13 3
+IoT Author14 2
+DevOps Author15 6
+DigitalTransformation Author16 3
+BlockchainTechnology Author17 4
+ArtificialIntelligence Author18 5
+NeuralProcessing Author19 2
+Robotics Author20 3
+Automation Author21 4
+MachineVision Author22 6
+BigDataAnalytics Author23 3
+DataMining Author24 5
+DataEngineering Author25 4
+PredictiveAnalytics Author26 3
+SpeechRecognition Author27 4
+ImageProcessing Author28 2
+NaturalLanguageProcessing Author29 5
+AugmentedReality Author30 6
+VirtualReality Author31 4
+QuantumMechanics Author32 2
+SmartCities Author33 3
+IoTDevelopment Author34 4
+AutonomousVehicles Author35 3
+CloudInfrastructure Author36 5
+GreenTech Author37 3
+Sustainability Author38 4
+CyberPhysicalSystems Author39 5
+ArtificialLife Author40 6
+QuantumComputing2 Author41 3
+DigitalTwins Author42 4
+SmartManufacturing Author43 2
+Biotechnology Author44 3
+FinTech Author45 5
+Bioinformatics Author46 4
+Bioengineering Author47 6
+SmartFarming Author48 3
+SustainableEnergy Author49 5
+ArtificialVision Author50 2
+CS30M001 David
+CS30M002 John
+CS30M003 Sarah
+CS30M004 Mike
+CS30M005 Lily
+CS30M006 Alex
+CS30M007 Maria
+CS30M008 Tom
+CS30M009 Emma
+CS30M010 Ryan
+CS30M009 Emma ISBN009 1
+CS30M009 Emma ISBN020 1
+Invalid request! Copy of book exceeds total copies
+Algorithms Author1 5
+AI Author2 3
+MachineLearning Author3 4
+DeepLearning Author4 6
+CloudComputing Author5 4
+Blockchain Author6 2
+QuantumComputing Author7 2
+BigData Author8 5
+NeuralNetworks Author9 2
+DataScience Author10 6
+CyberSecurity Author11 4
+CloudNative Author12 5
+EdgeComputing Author13 3
+IoT Author14 1
+DevOps Author15 6
+DigitalTransformation Author16 3
+BlockchainTechnology Author17 4
+ArtificialIntelligence Author18 5
+NeuralProcessing Author19 2
+Robotics Author20 2
+Automation Author21 4
+MachineVision Author22 6
+BigDataAnalytics Author23 3
+DataMining Author24 5
+DataEngineering Author25 4
+PredictiveAnalytics Author26 3
+SpeechRecognition Author27 4
+ImageProcessing Author28 2
+NaturalLanguageProcessing Author29 5
+AugmentedReality Author30 6
+VirtualReality Author31 4
+QuantumMechanics Author32 2
+SmartCities Author33 3
+IoTDevelopment Author34 4
+AutonomousVehicles Author35 3
+CloudInfrastructure Author36 5
+GreenTech Author37 3
+Sustainability Author38 4
+CyberPhysicalSystems Author39 5
+ArtificialLife Author40 6
+QuantumComputing2 Author41 3
+DigitalTwins Author42 4
+SmartManufacturing Author43 2
+Biotechnology Author44 3
+FinTech Author45 5
+Bioinformatics Author46 4
+Bioengineering Author47 6
+SmartFarming Author48 3
+SustainableEnergy Author49 5
+ArtificialVision Author50 2
+CS30M001 David
+CS30M002 John
+CS30M003 Sarah
+CS30M004 Mike
+CS30M005 Lily
+CS30M006 Alex
+CS30M007 Maria
+CS30M008 Tom
+CS30M009 Emma
+CS30M010 Ryan
+Invalid request! Book not borrowed
+BlockchainTechnology Author17
+Invalid request! Borrow limit exceeded
+Invalid request! Book not borrowed

@@ -1,0 +1,164 @@
+Hulk 1300 500 700 220
+Hulk 1560 500 800 240
+IronMan 1100 250 600 250
+IronMan 1265 250 675 265
+BlackWidow 1400 530 870 300
+BlackWidow 1820 530 1020 330
+CaptainAmerica 1500 680 920 260
+CaptainAmerica 1500 720 920 220
+Thor 1200 350 650 260
+Thor 1500 350 775 285
+Hulk 2340 190 1360 600
+Hulk 2340 290 1360 500
+IronMan 5000 4750 5675 265
+Thor 5000 4950 5775 285
+BlackWidow 5000 5230 6020 330
+Wasp 2100 1210 1590 390
+Wasp 2415 1210 1665 405
+Wasp 2415 1240 1665 375
+DoctorStrange 2200 1350 1650 360
+DoctorStrange 2640 1400 1750 330
+ScarletWitch 1900 1060 1340 320
+ScarletWitch 2090 1060 1390 330
+ScarletWitch 5000 5860 6390 330
+Vision 1800 900 1300 370
+Vision 2340 970 1450 330
+WarMachine 2500 1630 1970 410
+WarMachine 3125 1630 2095 435
+WarMachine 3125 1680 2095 385
+ShangChi 2600 1710 2090 440
+ShangChi 3640 1710 2290 480
+SpiderMan 2300 1480 1720 340
+SpiderMan 2300 1500 1720 320
+SpiderMan 2645 1500 1795 335
+SpiderMan 5000 6400 6795 335
+WinterSoldier 2700 1840 2160 420
+WinterSoldier 3510 1840 2310 450
+WinterSoldier 3510 1900 2310 390
+StarLord 2800 1920 2280 450
+StarLord 3360 1920 2380 470
+StarLord 5000 6920 7380 470
+Gamora 2900 2060 2340 420
+Gamora 3915 2060 2515 455
+Gamora 3915 2100 2515 415
+Rocket 3000 2130 2470 460
+Rocket 4500 2130 2720 510
+Rocket 4500 2160 2720 480
+BlackPanther 2400 1520 1880 410
+BlackPanther 3000 1520 2005 435
+BlackPanther 5000 6620 7005 435
+AntMan 2000 1170 1430 320
+AntMan 2200 1170 1480 330
+AntMan 2200 1210 1480 290
+Falcon 1700 800 1200 360
+Falcon 2040 800 1300 380
+Falcon 5000 6000 6300 380
+Hawkeye 1600 690 1110 360
+Hawkeye 2000 720 1235 355
+Hawkeye 5000 6020 6235 355
+Vision 2340 680 1740 620
+Vision 3510 680 1990 670
+ScarletWitch 5000 5570 6680 620
+ScarletWitch 5000 5640 6755 565
+ScarletWitch 5000 11040 11755 565
+CaptainAmerica 1500 500 1140 440
+CaptainAmerica 2025 500 1315 475
+CaptainAmerica 2025 550 1315 425
+Thor 5000 4680 6045 555
+Thor 5000 4680 6245 595
+Thor 5000 4740 6245 535
+IronMan 5000 4450 5975 565
+IronMan 5000 4450 6225 615
+IronMan 5000 4480 6225 585
+IronMan 5000 4480 6225 585
+Thor attacks Hulk
+Hulk boosted
+Thanos attacks IronMan
+IronMan repaired
+IronMan boosted
+RedSkull attacks BlackWidow
+BlackWidow boosted
+Loki attacks CaptainAmerica
+CaptainAmerica repaired
+Ultron attacks Thor
+Thor boosted
+Galactus attacks Hulk
+Hulk suit overheated
+Hulk boosted
+Hulk suit overheated
+Hulk repaired
+IronMan upgraded
+Thor upgraded
+BlackWidow upgraded
+Dormammu attacks Wasp
+Wasp boosted
+Wasp repaired
+Killmonger attacks DoctorStrange
+DoctorStrange repaired
+DoctorStrange boosted
+Enchantress attacks ScarletWitch
+ScarletWitch boosted
+ScarletWitch upgraded
+Apocalypse attacks Vision
+Vision repaired
+Vision boosted
+Ronan attacks WarMachine
+WarMachine boosted
+WarMachine repaired
+Magneto attacks ShangChi
+ShangChi boosted
+Vulture attacks SpiderMan
+SpiderMan repaired
+SpiderMan boosted
+SpiderMan upgraded
+Taskmaster attacks WinterSoldier
+WinterSoldier boosted
+WinterSoldier repaired
+Juggernaut attacks StarLord
+StarLord boosted
+StarLord upgraded
+Mysterio attacks Gamora
+Gamora boosted
+Gamora repaired
+MODOK attacks Rocket
+Rocket boosted
+Rocket suit overheated
+Rocket repaired
+EbonyMaw attacks BlackPanther
+BlackPanther boosted
+BlackPanther upgraded
+Sandman attacks AntMan
+AntMan boosted
+AntMan repaired
+Apocalypse attacks Falcon
+Falcon boosted
+Falcon upgraded
+Galactus attacks Hawkeye
+Hawkeye repaired
+Hawkeye boosted
+Hawkeye upgraded
+Dormammu attacks Vision
+Vision suit overheated
+Vision boosted
+Vision suit overheated
+Magneto attacks ScarletWitch
+ScarletWitch suit overheated
+ScarletWitch repaired
+ScarletWitch boosted
+ScarletWitch suit overheated
+ScarletWitch upgraded
+Loki attacks CaptainAmerica
+CaptainAmerica boosted
+CaptainAmerica repaired
+Ronan attacks Thor
+Thor suit overheated
+Thor boosted
+Thor suit overheated
+Thor repaired
+Thanos attacks IronMan
+IronMan suit overheated
+IronMan boosted
+IronMan suit overheated
+IronMan repaired
+IronMan upgrade Fail
+heroes are winning

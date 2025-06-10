@@ -1,0 +1,48 @@
+Book
+Algorithms Author3 ISBN567 3 3
+
+Book
+DataScience Author4 ISBN890 2 2
+
+Member
+CS45M001 Emma 2
+
+Member
+NoBorrowLimit CS45M002 Olivia
+
+Borrow
+CS45M001 ISBN567
+
+Borrow
+CS45M001 ISBN890
+
+Borrow
+CS45M001 ISBN567
+
+Borrow
+CS45M002 ISBN567
+
+Return
+CS45M001 ISBN567
+
+Return
+CS45M002 ISBN890
+
+Return
+CS45M002 ISBN567
+
+PrintBook
+ISBN567
+
+PrintBook
+ISBN890
+
+PrintMember
+CS45M001
+
+PrintMember
+CS45M002
+
+PrintLibrary
+
+Done

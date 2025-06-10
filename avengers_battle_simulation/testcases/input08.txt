@@ -1,0 +1,33 @@
+7 5 4  
+1000 500 300 0  
+1200 600 400 10  
+1300 700 500 20  
+1500 800 600 30  
+1600 900 700 40  
+1700 1000 800 50  
+1800 1100 900 60  
+IronMan 150  
+Thor 200  
+Hulk 250  
+BlackWidow 100  
+CaptainAmerica 180  
+Loki 220  
+Thanos 300  
+Ultron 250  
+RedSkull 270  
+BattleBegin  
+BoostPowerByFactor IronMan 15  
+AvengerStatus IronMan  
+Repair IronMan 30  
+Attack Thanos Hulk  
+AvengerStatus Hulk  
+BoostPowerByFactor Hulk 10  
+AvengerStatus Hulk  
+Upgrade BlackWidow  
+AvengerStatus BlackWidow  
+Upgrade Hulk  
+Upgrade Thor  
+AvengerStatus Thor  
+PrintBattleLog  
+BattleStatus  
+End

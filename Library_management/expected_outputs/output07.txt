@@ -1,0 +1,13 @@
+Invalid request! Borrow limit exceeded
+Invalid request! Copy of book not available
+Invalid request! Book not borrowed
+Algorithms Author5
+AI Author6
+CS60M001 David ISBN201 1
+Algorithms Author5 2
+AI Author6 2
+CloudComputing Author7 4
+Blockchain Author8 3
+CS60M001 David
+CS60M002 Sophia
+CS60M003 Ethan

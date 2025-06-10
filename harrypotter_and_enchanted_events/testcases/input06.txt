@@ -1,0 +1,20 @@
+6 12
+Sn
+25
+BR
+MY
+xm
+dt
+dt xm 3
+dt MY 42
+dt Sn 67
+xm BR 60
+xm Sn 80
+MY 25 82
+BR dt 12
+BR MY 88
+BR 25 51
+25 xm 76
+25 Sn 67
+Sn BR 6
+25 Sn

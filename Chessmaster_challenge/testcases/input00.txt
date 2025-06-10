@@ -1,0 +1,15 @@
+CREATE_2D
+3
+1 -5 0 
+-5 -5 7 
+5 9 -1 
+INVERSION_2D
+SORT_2D descending
+DISPLAY_2D
+CLOSEST_2D
+4
+9 3
+9 6
+3 10
+-7 8
+END

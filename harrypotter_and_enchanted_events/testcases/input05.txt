@@ -1,0 +1,17 @@
+5 10
+v90TdDM6AA
+roSdfSmfei
+t7QdLWhDtq
+UHjrVnNlAd
+BsyiwTf3SN
+BsyiwTf3SN t7QdLWhDtq 58
+BsyiwTf3SN roSdfSmfei 89
+BsyiwTf3SN v90TdDM6AA 5
+UHjrVnNlAd BsyiwTf3SN 68
+UHjrVnNlAd v90TdDM6AA 58
+t7QdLWhDtq UHjrVnNlAd 48
+t7QdLWhDtq v90TdDM6AA 35
+roSdfSmfei UHjrVnNlAd 44
+roSdfSmfei t7QdLWhDtq 23
+roSdfSmfei v90TdDM6AA 100
+UHjrVnNlAd v90TdDM6AA

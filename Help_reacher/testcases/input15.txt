@@ -1,0 +1,5 @@
+4
+3
+isSquareFree 6
+countDivisors 24
+sumOfDivisors 12

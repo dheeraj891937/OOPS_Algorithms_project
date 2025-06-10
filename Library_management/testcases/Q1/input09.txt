@@ -1,0 +1,300 @@
+Book
+Algorithms Author1 ISBN001 5 5
+
+Book
+AI Author2 ISBN002 3 3
+
+Book
+MachineLearning Author3 ISBN003 4 4
+
+Book
+DeepLearning Author4 ISBN004 6 6
+
+Book
+CloudComputing Author5 ISBN005 4 4
+
+Book
+Blockchain Author6 ISBN006 2 2
+
+Book
+QuantumComputing Author7 ISBN007 3 3
+
+Book
+BigData Author8 ISBN008 5 5
+
+Book
+NeuralNetworks Author9 ISBN009 3 3
+
+Book
+DataScience Author10 ISBN010 6 6
+
+Book
+CyberSecurity Author11 ISBN011 4 4
+
+Book
+CloudNative Author12 ISBN012 5 5
+
+Book
+EdgeComputing Author13 ISBN013 3 3
+
+Book
+IoT Author14 ISBN014 2 2
+
+Book
+DevOps Author15 ISBN015 6 6
+
+Book
+DigitalTransformation Author16 ISBN016 3 3
+
+Book
+BlockchainTechnology Author17 ISBN017 4 4
+
+Book
+ArtificialIntelligence Author18 ISBN018 5 5
+
+Book
+NeuralProcessing Author19 ISBN019 2 2
+
+Book
+Robotics Author20 ISBN020 3 3
+
+Book
+Automation Author21 ISBN021 4 4
+
+Book
+MachineVision Author22 ISBN022 6 6
+
+Book
+BigDataAnalytics Author23 ISBN023 3 3
+
+Book
+DataMining Author24 ISBN024 5 5
+
+Book
+DataEngineering Author25 ISBN025 4 4
+
+Book
+PredictiveAnalytics Author26 ISBN026 3 3
+
+Book
+SpeechRecognition Author27 ISBN027 4 4
+
+Book
+ImageProcessing Author28 ISBN028 2 2
+
+Book
+NaturalLanguageProcessing Author29 ISBN029 5 5
+
+Book
+AugmentedReality Author30 ISBN030 6 6
+
+Book
+VirtualReality Author31 ISBN031 4 4
+
+Book
+QuantumMechanics Author32 ISBN032 2 2
+
+Book
+SmartCities Author33 ISBN033 3 3
+
+Book
+IoTDevelopment Author34 ISBN034 4 4
+
+Book
+AutonomousVehicles Author35 ISBN035 3 3
+
+Book
+CloudInfrastructure Author36 ISBN036 5 5
+
+Book
+GreenTech Author37 ISBN037 3 3
+
+Book
+Sustainability Author38 ISBN038 4 4
+
+Book
+CyberPhysicalSystems Author39 ISBN039 5 5
+
+Book
+ArtificialLife Author40 ISBN040 6 6
+
+Book
+QuantumComputing2 Author41 ISBN041 3 3
+
+Book
+DigitalTwins Author42 ISBN042 4 4
+
+Book
+SmartManufacturing Author43 ISBN043 2 2
+
+Book
+Biotechnology Author44 ISBN044 3 3
+
+Book
+FinTech Author45 ISBN045 5 5
+
+Book
+Bioinformatics Author46 ISBN046 4 4
+
+Book
+Bioengineering Author47 ISBN047 6 6
+
+Book
+SmartFarming Author48 ISBN048 3 3
+
+Book
+SustainableEnergy Author49 ISBN049 5 5
+
+Book
+ArtificialVision Author50 ISBN050 2 2
+
+Member
+CS30M001 David 3
+
+Member
+NoBorrowLimit CS30M002 John
+
+Member
+CS30M003 Sarah 2
+
+Member
+CS30M004 Mike 4
+
+Member
+CS30M005 Lily 1
+
+Member
+CS30M006 Alex 3
+
+Member
+NoBorrowLimit CS30M007 Maria
+
+Member
+CS30M008 Tom 5
+
+Member
+CS30M009 Emma 2
+
+Member
+CS30M010 Ryan 4
+
+Borrow
+CS30M001 ISBN001
+
+Borrow
+CS30M002 ISBN002
+
+Borrow
+CS30M003 ISBN003
+
+PrintBook
+ISBN001
+
+Borrow
+CS30M004 ISBN004
+
+Borrow
+CS30M005 ISBN005
+
+PrintMember
+CS30M001
+
+Return
+CS30M001 ISBN001
+
+PrintLibrary
+
+Borrow
+CS30M006 ISBN006
+
+Return
+CS30M002 ISBN002
+
+PrintBook
+ISBN004
+
+Borrow
+CS30M007 ISBN007
+
+Return
+CS30M003 ISBN003
+
+PrintMember
+CS30M003
+
+Return
+CS30M004 ISBN004
+
+PrintLibrary
+
+Borrow
+CS30M008 ISBN008
+
+Return
+CS30M005 ISBN005
+
+PrintBook
+ISBN008
+
+PrintMember
+CS30M004
+
+Borrow
+CS30M009 ISBN009
+
+Return
+CS30M006 ISBN006
+
+Borrow
+CS30M010 ISBN010
+
+Return
+CS30M008 ISBN008
+
+PrintBook
+ISBN010
+
+PrintLibrary
+
+Borrow
+CS30M009 ISBN020
+
+Return
+CS30M010 ISBN010
+
+PrintMember
+CS30M009
+
+Borrow
+CS30M004 ISBN014
+
+Return
+CS30M007 ISBN017
+
+PrintLibrary
+
+Borrow
+CS30M005 ISBN024
+
+Return
+CS30M003 ISBN007
+
+Borrow
+CS30M008 ISBN022
+
+PrintBook
+ISBN017
+
+Return
+CS30M004 ISBN014
+
+Borrow
+CS30M009 ISBN020
+
+Return
+CS30M003 ISBN009
+
+PrintMember
+CS30M004
+
+Done

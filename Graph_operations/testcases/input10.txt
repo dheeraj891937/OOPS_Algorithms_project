@@ -1,0 +1,42 @@
+Graph 12 12
+0 6
+0 10
+0 8
+8 6
+7 11
+1 9
+7 9
+1 11
+2 3
+4 5
+2 5
+4 3
+printGraph
+isReachable 8 10
+isReachable 2 3
+complement
+printGraph
+union
+Graph 12 5
+0 1
+6 7
+8 9
+10 11
+3 4
+printGraph
+intersection
+Graph 12 6
+0 6
+1 7
+2 8
+3 9
+4 10
+5 11
+printGraph
+isReachable 0 11
+add_edge 1 6
+remove_edge 4 5
+isReachable 1 5
+complement
+printGraph
+end

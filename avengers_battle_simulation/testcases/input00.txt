@@ -1,0 +1,19 @@
+3 2 2
+1000 500 300 0
+1200 700 200 10
+1500 800 400 20
+IronMan 100
+Thor 150
+Loki 120
+Ultron 180
+BattleBegin
+Attack IronMan Loki
+Attack Thor Loki
+Repair IronMan 50
+BoostPowerByFactor Thor 2
+Upgrade IronMan
+AvengerStatus IronMan
+AvengerStatus Thor
+PrintBattleLog
+BattleStatus
+End

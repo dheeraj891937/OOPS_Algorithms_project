@@ -1,0 +1,108 @@
+Invalid request! Book not borrowed
+Invalid request! Book not borrowed
+Invalid request! Book not borrowed
+Invalid request! Book not borrowed
+Invalid request! Book not borrowed
+Invalid request! Book not borrowed
+Invalid request! Book not borrowed
+Invalid request! Book not borrowed
+Invalid request! Book not borrowed
+Invalid request! Book not borrowed
+Invalid request! Book not borrowed
+Invalid request! Book not borrowed
+Invalid request! Book not borrowed
+Invalid request! Book not borrowed
+Invalid request! Book not borrowed
+Algorithms Author1
+CS01M001 John ISBN102 1
+CS01M001 John ISBN105 1
+Algorithms Author1 5
+DataScience Author2 3
+CloudComputing Author3 3
+Blockchain Author4 2
+AI Author5 5
+ML Author6 6
+QuantumComputing Author7 7
+BigData Author8 9
+IoT Author9 8
+Robotics Author10 10
+WebDevelopment Author11 11
+CyberSecurity Author12 14
+Networking Author13 12
+PythonProgramming Author14 13
+JavaProgramming Author15 19
+DataMining Author16 17
+CloudStorage Author17 24
+AppDevelopment Author18 29
+MobileComputing Author19 34
+SoftwareEngineering Author20 40
+CS01M001 John
+CS01M002 Alice
+CS01M003 Bob
+CS01M004 Charlie
+CS01M005 David
+CS01M006 Emma
+CS01M007 Frank
+CS01M008 Grace
+CS01M009 Hannah
+CS01M010 Isaac
+CS01M011 Jack
+CS01M012 Kelly
+CS01M013 Liam
+CS01M014 Mike
+CS01M015 Nancy
+CS01M016 Olivia
+CS01M017 Paul
+CS01M018 Quinn
+CS01M019 Ryan
+CS01M020 Steve
+CS01M021 Tina
+CS01M022 Uma
+CS01M023 Victor
+CS01M024 Wendy
+CS01M025 Xander
+CS01M026 Yara
+CS01M027 Zach
+CS01M028 Adam
+CS01M029 Ben
+CS01M030 Clara
+CS01M031 Derek
+CS01M032 Eva
+CS01M033 Fiona
+CS01M034 Gabe
+CS01M035 Heidi
+CS01M036 Ian
+CS01M037 Julia
+CS01M038 Kyle
+CS01M039 Laura
+CS01M040 Matt
+CS01M041 Nora
+CS01M042 Owen
+CS01M043 Penny
+CS01M044 Quinn
+CS01M045 Ray
+CS01M046 Sam
+CS01M047 Tom
+CS01M048 Ursula
+CS01M049 Vince
+CS01M050 Will
+CS01M051 Xander
+CS01M052 Yasmine
+CS01M053 Zane
+CS01M054 Alan
+CS01M055 Brandon
+CS01M056 Charlotte
+CS01M057 Daniel
+CS01M058 Emily
+CS01M059 Fred
+CS01M060 Grace
+CS01M061 Harry
+CS01M062 Ivy
+CS01M063 Jack
+CS01M064 Kate
+CS01M065 Louis
+CS01M066 Monica
+CS01M067 Nathan
+CS01M068 Olivia
+CS01M069 Peter
+CS01M070 Quinn

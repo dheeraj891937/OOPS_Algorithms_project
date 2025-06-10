@@ -1,0 +1,22 @@
+Vertex 0: 1 
+Vertex 1: 0 2 
+Vertex 2: 1 
+Yes
+Vertex 0: 1 2 
+Vertex 1: 0 2 3 
+Vertex 2: 0 1 
+Vertex 3: 1 
+Vertex 0: 1 2 3 
+Vertex 1: 0 2 3 
+Vertex 2: 0 1 
+Vertex 3: 0 1 
+Vertex 0: 3 
+Vertex 1: 2 3 
+Vertex 2: 1 
+Vertex 3: 0 1 
+Yes
+Yes
+Vertex 0: 1 2 
+Vertex 1: 0 
+Vertex 2: 0 3 
+Vertex 3: 2 

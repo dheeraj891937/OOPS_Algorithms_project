@@ -1,0 +1,20 @@
+6 12
+mUyYvdjHNo
+8iZ9TukXgK
+atWkjHxewK
+H26VapaB7v
+KZGWiJNybW
+3AzIPww6mT
+3AzIPww6mT KZGWiJNybW 18
+3AzIPww6mT 8iZ9TukXgK 56
+3AzIPww6mT mUyYvdjHNo 93
+KZGWiJNybW H26VapaB7v 39
+KZGWiJNybW atWkjHxewK 75
+KZGWiJNybW 8iZ9TukXgK 23
+H26VapaB7v atWkjHxewK 59
+H26VapaB7v 8iZ9TukXgK 69
+atWkjHxewK 3AzIPww6mT 46
+8iZ9TukXgK atWkjHxewK 79
+8iZ9TukXgK mUyYvdjHNo 53
+mUyYvdjHNo atWkjHxewK 97
+KZGWiJNybW H26VapaB7v

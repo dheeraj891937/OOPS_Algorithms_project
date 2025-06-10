@@ -1,0 +1,5 @@
+2 1
+DarkArtsClassroom
+ForbiddenForest
+DarkArtsClassroom ForbiddenForest 5
+ForbiddenForest DarkArtsClassroom

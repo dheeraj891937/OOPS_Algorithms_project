@@ -1,0 +1,51 @@
+Graph
+5 7
+3 0
+1 0
+3 1
+2 4
+4 1
+3 2
+2 0
+printGraph
+isReachable
+4 2
+isReachable
+3 4
+isReachable
+2 3
+complement
+printGraph
+union
+Graph
+5 10
+1 2
+0 1
+3 2
+4 3
+2 0
+4 2
+4 0
+0 3
+3 1
+4 1
+printGraph
+intersection
+Graph
+5 1
+3 2
+printGraph
+add_edge
+3 2
+add_edge
+4 2
+add_edge
+4 2
+remove_edge
+4 0
+remove_edge
+2 0
+remove_edge
+4 2
+printGraph
+end

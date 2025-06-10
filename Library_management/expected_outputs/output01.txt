@@ -1,0 +1,6 @@
+Invalid request! Copy of book not available
+Invalid request! Borrow limit exceeded
+CS30M001 John ISBN123 1
+EdgeCaseBook Author1 0
+CaseBook Author2 1
+CS30M001 John

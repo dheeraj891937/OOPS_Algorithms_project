@@ -1,0 +1,395 @@
+Book
+Algorithms Author1 ISBN001 5 5
+
+Book
+DataScience Author2 ISBN002 3 3
+
+Book
+AI Author3 ISBN003 6 6
+
+Book
+CloudComputing Author4 ISBN004 2 2
+
+Book
+Blockchain Author5 ISBN005 4 4
+
+Book
+MachineLearning Author6 ISBN006 5 5
+
+Book
+CyberSecurity Author7 ISBN007 2 2
+
+Book
+Networking Author8 ISBN008 3 3
+
+Book
+CloudInfra Author9 ISBN009 7 7
+
+Book
+DeepLearning Author10 ISBN010 6 6
+
+Book
+DevOps Author11 ISBN011 8 8
+
+Book
+BigData Author12 ISBN012 9 9
+
+Book
+QuantumComputing Author13 ISBN013 4 4
+
+Book
+IoT Author14 ISBN014 3 3
+
+Book
+BlockchainTech Author15 ISBN015 5 5
+
+Book
+Robotics Author16 ISBN016 6 6
+
+Book
+Automation Author17 ISBN017 4 4
+
+Book
+AIinHealthcare Author18 ISBN018 5 5
+
+Book
+ARVR Author19 ISBN019 2 2
+
+Book
+EdgeComputing Author20 ISBN020 6 6
+
+Book
+SmartCities Author21 ISBN021 3 3
+
+Book
+5GTech Author22 ISBN022 7 7
+
+Book
+TechInnovation Author23 ISBN023 6 6
+
+Book
+DataMining Author24 ISBN024 8 8
+
+Book
+CloudSecurity Author25 ISBN025 9 9
+
+Book
+AIResearch Author26 ISBN026 2 2
+
+Book
+SelfDriving Author27 ISBN027 5 5
+
+Book
+WearableTech Author28 ISBN028 4 4
+
+Book
+SmartMachines Author29 ISBN029 3 3
+
+Book
+NeuralNetworks Author30 ISBN030 6 6
+
+Book
+BlockchainSecurity Author31 ISBN031 7 7
+
+Book
+BigDataAnalytics Author32 ISBN032 2 2
+
+Book
+TechnologyTrends Author33 ISBN033 4 4
+
+Book
+AIandEthics Author34 ISBN034 5 5
+
+Book
+FinTech Author35 ISBN035 6 6
+
+Book
+MedTech Author36 ISBN036 3 3
+
+Book
+CyberDefense Author37 ISBN037 8 8
+
+Book
+DigitalTwins Author38 ISBN038 2 2
+
+Book
+EdgeAI Author39 ISBN039 3 3
+
+Book
+TechLeadership Author40 ISBN040 5 5
+
+Book
+AIandRobotics Author41 ISBN041 6 6
+
+Book
+CloudTech Author42 ISBN042 8 8
+
+Book
+TechStartups Author43 ISBN043 4 4
+
+Book
+CloudAutomation Author44 ISBN044 7 7
+
+Book
+MachineVision Author45 ISBN045 3 3
+
+Book
+TechCulture Author46 ISBN046 6 6
+
+Book
+TechforGood Author47 ISBN047 5 5
+
+Book
+SmartTech Author48 ISBN048 4 4
+
+Book
+EmergingTech Author49 ISBN049 2 2
+
+Book
+TechEducation Author50 ISBN050 6 6
+
+Member
+CS01M001 John 3
+
+Member
+NoBorrowLimit CS01M002 Alice
+
+Member
+CS01M003 Bob 2
+
+Member
+CS01M004 Eve 3
+
+Member
+CS01M005 Emma 3
+
+Member
+NoBorrowLimit CS01M006 Olivia
+
+Member
+CS01M007 Sophia 2
+
+Member
+CS01M008 Noah 3
+
+Member
+CS01M009 Liam 3
+
+Member
+CS01M010 Mia 2
+
+Member
+CS01M011 Lucas 2
+
+Member
+CS01M012 Benjamin 3
+
+Member
+CS01M013 James 3
+
+Member
+CS01M014 Isabella 2
+
+Member
+CS01M015 Jack 3
+
+Member
+NoBorrowLimit CS01M016 Grace
+
+Member
+CS01M017 Ethan 3
+
+Member
+CS01M018 Charlotte 3
+
+Member
+CS01M019 William 2
+
+Member
+CS01M020 Oliver 3
+
+Borrow
+CS01M001 ISBN001
+
+Borrow
+CS01M001 ISBN002
+
+Borrow
+CS01M001 ISBN003
+
+Borrow
+CS01M002 ISBN004
+
+Borrow
+CS01M003 ISBN005
+
+Borrow
+CS01M004 ISBN006
+
+Borrow
+CS01M005 ISBN007
+
+Borrow
+CS01M006 ISBN008
+
+Borrow
+CS01M007 ISBN009
+
+Borrow
+CS01M008 ISBN010
+
+Borrow
+CS01M009 ISBN011
+
+Borrow
+CS01M010 ISBN012
+
+Borrow
+CS01M011 ISBN013
+
+Borrow
+CS01M012 ISBN014
+
+Borrow
+CS01M013 ISBN015
+
+Borrow
+CS01M014 ISBN016
+
+Borrow
+CS01M015 ISBN017
+
+Borrow
+CS01M016 ISBN018
+
+Borrow
+CS01M017 ISBN019
+
+Return
+CS01M001 ISBN001
+
+Return
+CS01M002 ISBN004
+
+Return
+CS01M003 ISBN005
+
+Return
+CS01M004 ISBN006
+
+Return
+CS01M005 ISBN007
+
+Return
+CS01M006 ISBN008
+
+Return
+CS01M007 ISBN009
+
+Return
+CS01M008 ISBN010
+
+Return
+CS01M009 ISBN011
+
+Return
+CS01M010 ISBN012
+
+Return
+CS01M011 ISBN013
+
+Return
+CS01M012 ISBN014
+
+Return
+CS01M013 ISBN015
+
+Return
+CS01M014 ISBN016
+
+Return
+CS01M015 ISBN017
+
+Return
+CS01M016 ISBN018
+
+Return
+CS01M017 ISBN019
+
+Borrow
+CS01M001 ISBN001
+
+Borrow
+CS01M002 ISBN003
+
+Borrow
+CS01M003 ISBN004
+
+Borrow
+CS01M004 ISBN005
+
+Borrow
+CS01M005 ISBN006
+
+Borrow
+CS01M006 ISBN007
+
+Borrow
+CS01M007 ISBN008
+
+Borrow
+CS01M008 ISBN009
+
+Borrow
+CS01M009 ISBN010
+
+Borrow
+CS01M010 ISBN011
+
+PrintBook
+ISBN001
+
+PrintBook
+ISBN003
+
+PrintBook
+ISBN005
+
+PrintBook
+ISBN006
+
+PrintBook
+ISBN007
+
+PrintMember
+CS01M001
+
+PrintMember
+CS01M003
+
+PrintLibrary
+
+Return
+CS01M001 ISBN003
+
+Return
+CS01M003 ISBN004
+
+Return
+CS01M005 ISBN006
+
+Return
+CS01M008 ISBN009
+
+Return
+CS01M009 ISBN010
+
+PrintBook
+ISBN003
+
+PrintMember
+CS01M001
+
+PrintLibrary
+
+Done

@@ -1,0 +1,28 @@
+Book
+DBMS Author1 ISBN1 2 2
+
+Book
+None
+
+Book
+ExistingBook ISBN1 ISBN2
+
+Member
+Id1 John 5
+
+Borrow
+Id1 ISBN1
+
+Borrow
+Id1 ISBN1
+
+PrintMember
+Id1
+
+Return
+Id1 ISBN1
+
+PrintMember
+Id1
+
+Done

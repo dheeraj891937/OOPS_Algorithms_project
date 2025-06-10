@@ -1,0 +1,23 @@
+Graph 2 1
+0 1
+add_edge 0 1
+union
+Graph 3 2
+0 1
+1 2
+printGraph
+isReachable 2 1
+isReachable 2 0
+complement
+printGraph
+intersection
+Graph 3 3
+0 1
+1 2
+2 0
+isReachable 0 2
+remove_edge 1 2
+isReachable 0 2
+add_edge 0 2
+printGraph
+end

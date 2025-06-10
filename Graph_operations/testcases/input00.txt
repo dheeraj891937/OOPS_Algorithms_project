@@ -1,0 +1,19 @@
+Graph 3 2
+0 1
+1 2
+union
+Graph 3 3
+0 1
+2 0
+1 2
+printGraph
+isReachable 0 2
+remove_edge 2 0
+remove_edge 2 0
+remove_edge 2 1
+remove_edge 0 2
+isReachable 0 2
+printGraph
+complement
+printGraph
+end

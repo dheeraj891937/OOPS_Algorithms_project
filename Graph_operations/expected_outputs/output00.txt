@@ -1,0 +1,11 @@
+Vertex 0: 1 2 
+Vertex 1: 0 2 
+Vertex 2: 0 1 
+Yes
+No
+Vertex 0: 1 
+Vertex 1: 0 
+Vertex 2: 
+Vertex 0: 2 
+Vertex 1: 2 
+Vertex 2: 0 1 

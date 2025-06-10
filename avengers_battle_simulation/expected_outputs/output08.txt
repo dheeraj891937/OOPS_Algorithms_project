@@ -1,0 +1,15 @@
+Ultron is out of fight
+RedSkull is out of fight
+IronMan 1150 500 375 15
+Hulk 1300 400 800 320
+Hulk 1430 400 850 330
+BlackWidow 1500 800 600 30
+Thor 1200 600 400 10
+IronMan boosted
+IronMan repaired
+Thanos attacks Hulk
+Hulk boosted
+BlackWidow upgrade Fail
+Hulk upgrade Fail
+Thor upgrade Fail
+heroes are winning

@@ -1,0 +1,15 @@
+Thor 1200 300 700 310
+Thor 1800 300 950 360
+Hulk 1300 400 800 320
+Hulk 1300 500 800 220
+Hulk 1300 230 1070 490
+Hulk 1300 -20 1320 740
+Loki attacks IronMan
+Thanos attacks Thor
+Thor boosted
+Thanos attacks Hulk
+Hulk repaired
+RedSkull attacks Hulk
+Ultron attacks Hulk
+Hulk suit destroyed
+enemies are winning

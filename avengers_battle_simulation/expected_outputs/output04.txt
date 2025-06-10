@@ -1,0 +1,17 @@
+IronMan 1000 500 300 0
+Thor 1260 600 225 15
+IronMan 1000 500 300 0
+Thor 1260 600 225 15
+Hulk 1300 700 400 20
+Hulk 1430 700 450 30
+Hulk 1472 700 465 33
+IronMan attacks Loki
+Thor attacks Thanos
+Hulk attacks RedSkull
+Thor boosted
+IronMan upgrade Fail
+Thor upgrade Fail
+Hulk upgrade Fail
+Hulk boosted
+Hulk boosted
+enemies are winning

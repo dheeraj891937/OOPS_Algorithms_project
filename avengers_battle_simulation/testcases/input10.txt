@@ -1,0 +1,77 @@
+11 7 7  
+1000 500 300 0  
+1200 600 400 10  
+1300 700 500 20  
+1500 800 600 30  
+1600 900 700 40  
+1700 1000 800 50  
+1800 1100 900 60  
+1900 1200 1000 70  
+2000 1300 1100 80  
+2100 1400 1200 90  
+2200 1500 1300 100  
+IronMan 150  
+Thor 200  
+Hulk 250  
+BlackWidow 180  
+CaptainAmerica 170  
+DoctorStrange 220  
+SpiderMan 160  
+Loki 220  
+Thanos 300  
+Ultron 250  
+RedSkull 270  
+Killmonger 250  
+Ronan 260  
+Magneto 280  
+BattleBegin  
+Attack Loki IronMan  
+Attack Thanos Thor  
+AvengerStatus IronMan  
+Repair IronMan 50  
+AvengerStatus IronMan  
+BoostPowerByFactor Thor 10  
+AvengerStatus Thor  
+Attack Loki Hulk  
+AvengerStatus Hulk  
+BoostPowerByFactor Hulk 30  
+AvengerStatus Hulk  
+Attack RedSkull Hulk  
+AvengerStatus Hulk  
+Repair Hulk 100  
+BoostPowerByFactor Hulk 15  
+AvengerStatus Hulk  
+Attack Thanos CaptainAmerica  
+AvengerStatus CaptainAmerica  
+Attack RedSkull Thor  
+Attack RedSkull DoctorStrange  
+AvengerStatus DoctorStrange  
+BoostPowerByFactor DoctorStrange 20  
+AvengerStatus DoctorStrange  
+Upgrade IronMan  
+AvengerStatus IronMan  
+Upgrade Thor  
+AvengerStatus Thor  
+Upgrade Hulk  
+AvengerStatus Hulk  
+Attack Ultron BlackWidow  
+AvengerStatus BlackWidow  
+Repair BlackWidow 50  
+BoostPowerByFactor BlackWidow 25  
+AvengerStatus BlackWidow  
+Attack Thanos BlackWidow  
+AvengerStatus BlackWidow  
+Attack RedSkull BlackWidow
+Attack RedSkull CaptainAmerica  
+BoostPowerByFactor CaptainAmerica 50  
+AvengerStatus CaptainAmerica  
+AvengerStatus SpiderMan    
+AvengerStatus SpiderMan  
+Repair SpiderMan 100      
+Upgrade CaptainAmerica  
+AvengerStatus CaptainAmerica  
+Upgrade DoctorStrange  
+AvengerStatus DoctorStrange  
+PrintBattleLog  
+BattleStatus  
+End
